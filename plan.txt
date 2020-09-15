@@ -18,3 +18,4 @@ Sorting
 combining Filtering AND sorting !
 
 - other fixes after that
+Updating the sort and direction in the UI
